@@ -1,0 +1,178 @@
+*   [33mcommit d18e0bdab4ba62aba196567234b53283a8e64317[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/change_alice[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mchange_alice[m[33m)[m
+[31m|[m[32m\[m  Merge: 2069973 7a50fb9
+[31m|[m [32m|[m Author: Nikita.Shipunov <nikita.shipunov@ringcentral.com>
+[31m|[m [32m|[m Date:   Sat Aug 13 17:24:29 2022 +0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'bobby_branch' 3
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 7a50fb92ed8dc26e0969da43f6eb2e3a6e010e21[m[33m ([m[1;31morigin/bobby_branch[m[33m, [m[1;32mbobby_branch[m[33m)[m
+[31m|[m [32m|[m Author: Nikita.Shipunov <nikita.shipunov@ringcentral.com>
+[31m|[m [32m|[m Date:   Sat Aug 13 16:49:45 2022 +0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     4
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 2069973245863b8af27d709709f77666615b28b0[m
+[32m|[m [32m|[m Author: Nikita.Shipunov <nikita.shipunov@ringcentral.com>
+[32m|[m [32m|[m Date:   Sat Aug 13 16:49:19 2022 +0400
+[32m|[m [32m|[m 
+[32m|[m [32m|[m     3
+[32m|[m [32m|[m 
+* [32m|[m [33mcommit f144e5cd8b7837015e74269242494c7dbd68af56[m
+[33m|[m[32m\[m[32m|[m Merge: dc1db76 1f817ac
+[33m|[m [32m|[m Author: Nikita.Shipunov <nikita.shipunov@ringcentral.com>
+[33m|[m [32m|[m Date:   Sat Aug 13 16:37:33 2022 +0400
+[33m|[m [32m|[m 
+[33m|[m [32m|[m     Merge branch 'bobby_branch'
+[33m|[m [32m|[m 
+[33m|[m * [33mcommit 1f817ac0c1b00b4b2ba6037fa77f1b4a587427e8[m
+[33m|[m [34m|[m Author: Nikita.Shipunov <nikita.shipunov@ringcentral.com>
+[33m|[m [34m|[m Date:   Sat Aug 13 16:18:26 2022 +0400
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Chanhe first Line
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit dc1db767f8406b099637822b7a60118c76f09ad4[m
+[34m|[m[34m/[m  Author: Nikita.Shipunov <nikita.shipunov@ringcentral.com>
+[34m|[m   Date:   Sat Aug 13 16:19:24 2022 +0400
+[34m|[m   
+[34m|[m       Change First Line
+[34m|[m   
+*   [33mcommit 9a2fea4fdc4c37661671295498a3b56b08507af9[m
+[35m|[m[36m\[m  Merge: 8a559b0 74ed812
+[35m|[m [36m|[m Author: Nikita.Shipunov <nikita.shipunov@ringcentral.com>
+[35m|[m [36m|[m Date:   Sat Aug 13 16:07:57 2022 +0400
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     Merge branch 'change_alice'
+[35m|[m [36m|[m 
+[35m|[m * [33mcommit 74ed812ed1a6b01b68376170908e2ac44a9896ca[m
+[35m|[m [36m|[m Author: Nikita.Shipunov <nikita.shipunov@ringcentral.com>
+[35m|[m [36m|[m Date:   Sat Aug 13 15:44:38 2022 +0400
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     Therd Line
+[35m|[m [36m|[m 
+[35m|[m * [33mcommit d4f792cec70a119dc333e614683b1ef50c1d4ff5[m
+[35m|[m[35m/[m  Author: Nikita.Shipunov <nikita.shipunov@ringcentral.com>
+[35m|[m   Date:   Thu Aug 4 12:55:15 2022 +0400
+[35m|[m   
+[35m|[m       Modify Alice
+[35m|[m 
+* [33mcommit 8a559b0fcb9cce1d4ead5fc72f72e61970d4f4f4[m
+[36m|[m Author: Nikita.Shipunov <nikita.shipunov@ringcentral.com>
+[36m|[m Date:   Thu Aug 4 12:13:27 2022 +0400
+[36m|[m 
+[36m|[m     Add text to Bob
+[36m|[m 
+* [33mcommit 66877bd237fe1285192b6e56d88521a93df6d072[m
+[36m|[m Author: Nikita.Shipunov <nikita.shipunov@nordigy.ru>
+[36m|[m Date:   Wed Aug 3 12:15:52 2022 +0400
+[36m|[m 
+[36m|[m     Add Bob
+[36m|[m 
+* [33mcommit 8a0d22b3c533fdd4a653ce1959a35a517cdede6c[m
+[36m|[m Author: UnseenWizzard <nico@riedmann.dev>
+[36m|[m Date:   Sun Jul 17 13:00:02 2022 +0200
+[36m|[m 
+[36m|[m     Add section describing fixup commits
+[36m|[m 
+* [33mcommit e701c3efec57019d46ef438a2a23b933a978297c[m
+[36m|[m Author: Vibhu Chandransh Bhanot <66901877+Vibhu1710@users.noreply.github.com>
+[36m|[m Date:   Sun Feb 14 17:41:41 2021 +0530
+[36m|[m 
+[36m|[m     made stashing section a little more understandable (#83)
+[36m|[m     
+[36m|[m     * made stashing section a little more understandable
+[36m|[m     
+[36m|[m     changes made in the line describing difference between stash pop and stash apply.
+[36m|[m 
+* [33mcommit 0bb5dfd00c84ab4d1a320388375d6de7dfdf1d9c[m
+[36m|[m Author: Paulo Gonçalves <paulorochag@hotmail.com>
+[36m|[m Date:   Mon Jul 13 21:05:23 2020 -0300
+[36m|[m 
+[36m|[m     Fix(readme): adjust formatting
+[36m|[m 
+* [33mcommit eb251e616f90287ad22af46e65c6266b23e35b47[m
+[36m|[m Author: Vadym <vadimpenchak@gmail.com>
+[36m|[m Date:   Mon Sep 16 19:07:54 2019 +0300
+[36m|[m 
+[36m|[m     Fix spelling of README.md
+[36m|[m     
+[36m|[m     Fix punctuation, spelling.
+[36m|[m     Paraphrase some unclear sentences.
+[36m|[m     
+[36m|[m     This contains the contributions made by @TheCorio, squashed into a
+[36m|[m     single clean commit and rebased on the current master.
+[36m|[m     Thanks for your input! :)
+[36m|[m     
+[36m|[m     Resloves #17
+[36m|[m 
+* [33mcommit 4379585d57589647ad7dc9703cc80fe086c5fe54[m
+[36m|[m Author: Joshua Segal <gitpulljoshuasegal@gmail.com>
+[36m|[m Date:   Fri Oct 4 14:56:10 2019 -0400
+[36m|[m 
+[36m|[m     Update README.md
+[36m|[m     
+[36m|[m     Original comma actually confused me and I thought it was part of the syntax. I think this might be less prone to mistakes 😃
+[36m|[m 
+* [33mcommit 0106a1c0900d93d35c5193e93fc2447fa63e3caf[m
+[36m|[m Author: Houssam Jelliti <jelitihoussam@gmail.com>
+[36m|[m Date:   Sun Jul 14 16:25:39 2019 +0100
+[36m|[m 
+[36m|[m     Fix a very (very) small typo in README file
+[36m|[m     
+[36m|[m     We will fix the sentence from:
+[36m|[m     (... we're basing it on and the applies our changes)
+[36m|[m     to:
+[36m|[m     (... we're basing it on and then applies our changes)
+[36m|[m     
+[36m|[m     It makes more sense now!
+[36m|[m 
+* [33mcommit aeec4a1391cd09770975ab6c399b1368296ffc85[m
+[36m|[m Author: Patrick Pichler <patrick.pichler@bearingpoint.com>
+[36m|[m Date:   Thu Jul 4 12:37:51 2019 +0200
+[36m|[m 
+[36m|[m     Add missing switch back to master branch
+[36m|[m     
+[36m|[m     In the `Merging divergent branches` section it is stated to merge the
+[36m|[m     `change_alice` branch into the `change_alice` branch. This makes no
+[36m|[m     sense and the accompanying picture tells a different story. In reality
+[36m|[m     the `change_alice` branch should be merged into master. This is now
+[36m|[m     fixed.
+[36m|[m 
+* [33mcommit aeafd763bd8c5d72b587268af4d92ba4b2ebcae9[m
+[36m|[m Author: ziga <zigomir@gmail.com>
+[36m|[m Date:   Sat Jun 29 15:15:28 2019 -0400
+[36m|[m 
+[36m|[m     Fix two typos
+[36m|[m 
+* [33mcommit ab33865d31e8ddc2acbee8d2f076cb956f078856[m
+[36m|[m Author: Jesse <jessegielen@hotmail.com>
+[36m|[m Date:   Mon Jun 10 13:35:07 2019 +0200
+[36m|[m 
+[36m|[m     Fix typo in README
+[36m|[m 
+* [33mcommit 2c9dc834f1cbaec46f34df5e3f929881c5f00fc9[m
+[36m|[m Author: UnseenWizzard <nicola.riedmann@live.de>
+[36m|[m Date:   Thu Jun 6 23:01:00 2019 +0200
+[36m|[m 
+[36m|[m     Correctly use its and it's - Thanks Jon Forrest
+[36m|[m 
+* [33mcommit bbfdeaacccd9638f90736e7865d0fcafc8a8ef24[m
+[36m|[m Author: UnseenWizzard <nicola.riedmann@live.de>
+[36m|[m Date:   Thu Jun 6 22:56:43 2019 +0200
+[36m|[m 
+[36m|[m     Fix merge abort command being wrong - Thanks Fersu
+[36m|[m 
+* [33mcommit 586efd21671a33b16fb46001408adb82ab9ed24b[m
+[36m|[m Author: UnseenWizzard <nicola.riedmann@live.de>
+[36m|[m Date:   Fri Jan 25 20:06:57 2019 +0100
+[36m|[m 
+[36m|[m     Add Alice
+[36m|[m 
+* [33mcommit 3e4e4e57cef373417c36318d738311913dd98e5e[m
+  Author: Nico Riedmann <UnseenWizzard@users.noreply.github.com>
+  Date:   Fri Jan 25 19:25:23 2019 +0100
+  
+      Add Tutorial Text
+      
+        Changes to the tutorial are all squashed into this commit on master, to keep the log free of clutter that distracts from the tutorial
+      
+        See the tutorial_wip branch for the actual commit history
